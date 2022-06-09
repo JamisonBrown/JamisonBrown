@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Jamison Brown</h1>
 <h3 align="center">A resourceful programmer from Raleigh NC</h3>
 
-- 🌱 I’m currently learning **Ethical Hacking, .Net**
+- 🌱 I’m currently learning **Web Development, JavaScript, Ethical Hacking**
 
 - 📫 How to reach me **jamieb5103@gmail.com**
 
